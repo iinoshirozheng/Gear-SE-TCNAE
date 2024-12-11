@@ -38,6 +38,8 @@ Thill, Markus; Konen, Wolfgang; Bäck, Thomas (2020)
 [Time Series Encodings with Temporal Convolutional Networks Inproceedings](http://www.gm.fh-koeln.de/ciopwebpub/Thill20a.d/bioma2020-tcn.pdf)
 In: Vasile, Massimiliano; Filipic, Bogdan (Ed.): 9th International Conference on Bioinspired Optimisation Methods and Their Applications (BIOMA), Bruxelles.
 
+## Awarded to the persons in recognition of the best papers in the 8th International Conference on Advanced Technology Innovation 2023
+![IMG_0031](https://github.com/user-attachments/assets/20fe9d1a-6c33-4207-af70-805622296f8c)
 
 
 **注意事項 ：使用 SE-TCNAE 進行齒輪缺陷診斷與分類任務，此為論文專案如需使用必須經過本人同意。**

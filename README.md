@@ -38,7 +38,7 @@ Thill, Markus; Konen, Wolfgang; Bäck, Thomas (2020)
 [Time Series Encodings with Temporal Convolutional Networks Inproceedings](http://www.gm.fh-koeln.de/ciopwebpub/Thill20a.d/bioma2020-tcn.pdf)
 In: Vasile, Massimiliano; Filipic, Bogdan (Ed.): 9th International Conference on Bioinspired Optimisation Methods and Their Applications (BIOMA), Bruxelles.
 
-## Awarded to the persons in recognition of the best papers in the 8th International Conference on Advanced Technology Innovation 2023
+## 第八屆 ICATI 日本沖繩研討會 最佳論文
 ![IMG_0031](https://github.com/user-attachments/assets/20fe9d1a-6c33-4207-af70-805622296f8c)
 
 

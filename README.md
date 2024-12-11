@@ -4,27 +4,21 @@
 
 - ##### 碩士論文 --> [鄭睿閎-碩士論文](https://github.com/iinoshirozheng/gear-tcn-ae/blob/main/%E9%84%AD%E7%9D%BF%E9%96%8E_%E7%A2%A9%E5%A3%AB%E8%AB%96%E6%96%87.pdf)
 
-- ##### 程式碼 （資料夾） -->神經網路程式碼
+# 神經網路程式碼結構
 
-|_ _ _ wear_tcn.py -->齒輪磨耗程度 程式碼
+## 程式碼
+### 齒輪磨耗與缺陷分類與檢測
+- `wear_tcn.py`：齒輪磨耗程度檢測程式碼
+- `tcn_classification_1Channel.py`：SE-TCN 齒輪缺陷分類（單軸）
+- `tcn_classification.py`：SE-TCN 齒輪缺陷分類（三軸）
+- `tcn_classification_ORG.py`：TCN 齒輪缺陷分類（三軸）
+- `gear_tcn_ae.py`：齒輪缺陷檢測程式碼
 
-|_ _ _ tcn_classification_1Channel.py -->SE-TCN 齒輪缺陷分類(單軸) 程式碼
-
-|_ _ _ tcn_classification.py -->SE-TCN 齒輪缺陷分類(三軸) 程式碼
-
-|_ _ _ tcn_classification _ORG.py -->TCN 齒輪缺陷分類(三軸) 程式碼
-
-|_ _ _ gear_tcn_ae.py -->齒輪缺陷檢測 程式碼
-
-
-
-- ##### 資料擷取 （資料夾） -->齒輪振動資料擷取數據 
-
-|_ _ _ bot (資料夾) -->輕度齒輪缺陷資料
-
-|_ _ _ mid (資料夾) -->中度齒輪缺陷資料
-
-|_ _ _ top (資料夾) -->重度齒輪缺陷資料
+## 資料擷取
+### 齒輪振動數據
+- `bot`（資料夾）：輕度齒輪缺陷資料
+- `mid`（資料夾）：中度齒輪缺陷資料
+- `top`（資料夾）：重度齒輪缺陷資料
 
 
 

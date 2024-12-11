@@ -1,12 +1,6 @@
-<h1><center>SE-TCNAE</center></h1>
+# SE-TCNAE 碩士論文 --> [鄭睿閎-碩士論文](https://github.com/iinoshirozheng/gear-tcn-ae/blob/main/%E9%84%AD%E7%9D%BF%E9%96%8E_%E7%A2%A9%E5%A3%AB%E8%AB%96%E6%96%87.pdf)
 
-
-
-# 碩士論文 --> [鄭睿閎-碩士論文](https://github.com/iinoshirozheng/gear-tcn-ae/blob/main/%E9%84%AD%E7%9D%BF%E9%96%8E_%E7%A2%A9%E5%A3%AB%E8%AB%96%E6%96%87.pdf)
-
-# 神經網路程式碼結構
-
-## 程式碼
+## 神經網路程式碼結構
 ### 齒輪磨耗與缺陷分類與檢測
 - `wear_tcn.py`：齒輪磨耗程度檢測程式碼
 - `tcn_classification_1Channel.py`：SE-TCN 齒輪缺陷分類（單軸）
